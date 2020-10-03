@@ -4,6 +4,9 @@ Flutter Floor (Room Database) Demo App written in Flutter for iOS & Android.
 
 ![sample-gif](https://github.com/flutterdb/flutter_floor/blob/master/sample2.gif)
 
+# Install Floor from pub dev
+# https://pub.dev/packages/floor/install
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
