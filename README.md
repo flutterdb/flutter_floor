@@ -1,6 +1,8 @@
 # flutter_floor_demo
 
-Flutter Floor (Room Database) Demo App written in Flutter for iOS & Android.
+# Flutter Floor (Room Database) Demo App written in Flutter for iOS & Android.
+
+# Flutter Platform Channel used in Swift (iOS) & Kotlin (Android) used for displaying Toast on screen.
 
 ![sample-gif](https://github.com/flutterdb/flutter_floor/blob/master/sample2.gif)
 
