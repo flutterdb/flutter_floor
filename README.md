@@ -7,7 +7,7 @@
 # Install Floor from pub dev
 # https://pub.dev/packages/floor/install
 
-# Flutter Platform Channel used in Swift (iOS) & Kotlin (Android) used for displaying Toast on screen.
+# Flutter Platform Channel used in Swift (iOS) & Kotlin (Android) for displaying Toast on screen.
 
 ## Getting Started
 
